@@ -1,0 +1,12 @@
+id: "ucasal_comp_041_contador-publico"
+titulo: "Contador Público"
+facultad_o_unidad: "Facultad de Economía y Administración"
+carrera: "Contador Público"
+tipo_documento: "competencias_especificas_y_alcances_para_RAG"
+resolucion: ""
+fecha_documento: ""
+modalidad: "Presencial"
+estado: "vigente_a_validar"
+prioridad_rag: "alta"
+requiere_validacion_humana: true
+path: "02_matrices_tributacion/facultad-de-economia-y-administracion/contador-publico/documento.md"

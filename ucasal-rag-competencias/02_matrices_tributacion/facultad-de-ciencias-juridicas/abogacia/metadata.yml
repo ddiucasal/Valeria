@@ -1,0 +1,12 @@
+id: "ucasal_comp_028_abogacia"
+titulo: "ABOGACÍA"
+facultad_o_unidad: "Facultad de Ciencias Jurídicas"
+carrera: "ABOGACÍA"
+tipo_documento: "competencias_especificas_y_alcances_para_RAG"
+resolucion: "RESOLUCIÓN N° 290/2025"
+fecha_documento: "12 días del mes de agosto del año dos mil veinticinco"
+modalidad: "PRESENCIAL Y DISTANCIA"
+estado: "vigente_a_validar"
+prioridad_rag: "alta"
+requiere_validacion_humana: true
+path: "02_matrices_tributacion/facultad-de-ciencias-juridicas/abogacia/documento.md"
