@@ -1,0 +1,10 @@
+repositorio: "ucasal-rag-competencias"
+institucion: "Universidad Católica de Salta - UCASAL"
+area_sugerida_responsable: "Dirección de Diseño y Desarrollo Instruccional / Dirección de Gestión y Calidad Educativa"
+proposito: "Fuente controlada de conocimiento para RAG local aplicado a transformación curricular por competencias"
+fecha_generacion: "2026-05-07"
+estado_general: "vigente_a_validar"
+requiere_repositorio_privado: true
+fuente_original: "data/raw/matriz_competencias_ucasal_RAG_ULTIMA_VERSION_2026_MAYO.txt"
+documentos_segmentados: 61
+politica_validacion: "Todo documento debe ser validado por responsable académico antes de usarse como fuente oficial definitiva."
